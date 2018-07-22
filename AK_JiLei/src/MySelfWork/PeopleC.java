@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Created by ${纪雷} on 2018/3/29.
  */
-class People1 {
+class people1 {
     String name;
     int age;
     public void tell(){
@@ -13,7 +13,7 @@ class People1 {
 }
 public class PeopleC {
     public static void main(String[] args) {
-        People1 p1=new People1();
+        people1 p1=new people1();
         Scanner cin=new Scanner(System.in);
         while (cin.hasNext()){
             p1.name=cin.next();

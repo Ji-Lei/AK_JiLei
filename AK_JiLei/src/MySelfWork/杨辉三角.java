@@ -1,5 +1,6 @@
 package MySelfWork;
 
+
 import java.util.Scanner;
 
 /**
@@ -9,7 +10,7 @@ public class 杨辉三角 {
     public static void main(String[] args) {
         Scanner cin=new Scanner(System.in);
         int n=cin.nextInt();
-        int[][] a=new int[n][n];
+        int[][] a=new int[n+1][n+1];
         for (int i = 0; i < n; i++) {
             for (int j = 0; j <= i; j++) {
                 if(j==0||j==i)a[i][j]=1;
