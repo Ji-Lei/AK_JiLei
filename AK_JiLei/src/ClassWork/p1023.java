@@ -7,9 +7,9 @@ import java.util.Scanner;
  */
 public class p1023 {
     public static void main(String[] args) {
-        Scanner cin=new Scanner(System.in);
-        int[] a=new int[1000];
-        
+        Scanner cin = new Scanner(System.in);
+        int[] a = new int[1000];
+
 
     }
 }

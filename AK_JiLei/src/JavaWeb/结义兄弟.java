@@ -1,4 +1,4 @@
-package MySelfWork;
+package JavaWeb;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 /**
- * Created by ${纪雷} on 2018/6/10.
+ * Created by ${纪雷} on 2019/3/112
  */
 public class 结义兄弟 {
     public static void main(String[] args) {

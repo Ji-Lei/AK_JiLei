@@ -22,7 +22,8 @@ public class D {
             }
             for(int i=0;i<c;i++){
                 x[i][0]=cin.nextInt();
-                x[i][1]=cin.nextInt();
+                x[i][1]=cin.nextInt()
+                ;
                 y[x[i][0]+1][x[i][1]+1]='*';
             }
             for(int i=1;i<=a;i++){
